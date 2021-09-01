@@ -12,11 +12,11 @@ while (i < 10)
 {
 char b = 'a';
 
-while (b <= 'z')
-  {
-    _putchar(b);
-    b++;
-  }
+ while (b <= 'z')
+   {
+     _putchar(b);
+     b++;
+   }
 _putchar('\n');
 i++;
 }
